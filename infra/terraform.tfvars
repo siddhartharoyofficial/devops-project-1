@@ -8,9 +8,9 @@ cidr_public_subnet   = ["10.0.1.0/24", "10.0.2.0/24"]
 cidr_private_subnet  = ["10.0.3.0/24", "10.0.4.0/24"]
 eu_availability_zone = ["eu-central-1a", "eu-central-1b"]
 
-public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDwmgMHFJE7J4qepIzAZL3/yC6J0zsEAb/oHYL+WBBDNUjSH4TeHUnHVNe9b/pyPcub+O/HNvlGrzSxUp0xT0b3O7kkTtgBKiG8NaBbonj+c7byfOGER80DYxc5adlBltuIDd8StFe7OMzbYyUSr1mdxDTIWm/OoE39G/fu3hTqUGkykv072GAy8nMFejITRw9pf+53B9ziE5rsdOUH4uqBiQa/Ng/qKo7h9MtJGcloRATYiObXwAgrHtt3sDrtvkq2ZceT906/BJm1Twlm+BHlQecHV18Ak3bzm/6HzlsA/q+yORsoB+VxSUxvVy0nXTc1X8vJAD4KSYVL5DTrpisdnQAIcuqAbea+LMku2o4sdnrrIlUi8/8BXeVbI4TNNGd0+sWpCVcDEhb4gyA/XXTvloQyjTYrL4+am/9XEY6NGdsrPK74sjvtpUZPUrmzTJ/mJWG5ncGY88GAj+YZAsY5pnAqh2CkR2TUpglugldnWyrppbe2QyC9iQkgUGSkBTs= rahulwagh@Rahuls-MacBook-Pro.local"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8GHo7XLi1sypnFFhriS8Gdvf/vQKJplI4oSdY3+gOMnsz9Oqw243om0c/ZCM7Bk6vAPFoKQ6j9PXq+27+CRLpCTf2EnB6Ue2SY+U3ECaHuzIlfqLuaH1fi6pfIDUgykntqX1iqxVKUdKg5rXWnIfQFWEhTDusEC6eIVYl8tSChosyOEzBWH1Ac0T5R/mENQtl8WS1JV+n5UEOrNhRECGMB4gk8LMC4yua826GOvplyka+JvUp9yBA8E+G4EH0I0fg37DoDJUSWuupIxf6Vn3IgI0QQd883a1Vjpk8gPJWkBEkpbY5p/1H0QIRxDbT6Ehepgl4OxPsqA8w3/C+imYz root@Siddharthas-MacBook-Pro.local"
 ec2_ami_id     = "ami-06dd92ecc74fdfb36"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "jhooq.org"
+domain_name = "cloudtraders.xyz"
